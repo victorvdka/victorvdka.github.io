@@ -1,0 +1,195 @@
+            <!-- ======= Portfolio Section ======= -->
+            <section id="portfolio" class="portfolio section-bg">
+                <div class="container">
+                    <div class="section-title">
+                        <h2>Portfolio</h2>
+                        <p>
+                            One of the best ways to learn how to become a pentester is to
+                                          solve CTFs from different platforms such as HackTheBox, TryHackMe,
+                                          Portswigger, VulnHub, etc. Here are some of the reports I've been
+                                          doing on how to exploit certain vulnerabilities and get privilege
+                                          escalation on victim machines.
+                        </p>
+                    </div>
+
+                    <div class="row" data-aos="fade-up">
+                        <div class="col-lg-12 d-flex justify-content-center">
+                            <ul id="portfolio-flters">
+                                <li data-filter="*" class="filter-active">All</li>
+                                <li data-filter=".filter-HTB">HackTheBox</li>
+                                <li data-filter=".filter-THM">TryHackMe</li>
+                                <li data-filter=".filter-PTS">Portswigger</li>
+                                <li data-filter=".filter-VNH">Vulnhub</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/ctfs/htb/HTB - Return.png" class="img-fluid" alt=""/>
+                                <div
+                                    class="portfolio-links">
+                                    <!-- <a href="assets/img/ctfs/HTB - Return.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                    <a href="./assets/reports/htb/Return HTB.pdf" target="_blank" title="Download PDF Report">
+                                        <i class="bx bx-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/ctfs/htb/HTB - Shocker.png" class="img-fluid" alt=""/>
+                                <div
+                                    class="portfolio-links">
+                                    <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                    <a href="./assets/reports/htb/Shocker HTB.pdf" target="_blank" title="Download PDF Report">
+                                        <i class="bx bx-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/ctfs/htb/HTB - Delivery.png" class="img-fluid" alt=""/>
+                                <div
+                                    class="portfolio-links">
+                                    <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                    <a href="./assets/reports/htb/Delivery HTB.pdf" target="_blank" title="Download PDF Report">
+                                        <i class="bx bx-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/ctfs/htb/HTB - GoodGames.png" class="img-fluid" alt=""/>
+                                <div
+                                    class="portfolio-links">
+                                    <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                    <a href="./assets/reports/htb/GoodGames HTB.pdf" target="_blank" title="Download PDF Report">
+                                        <i class="bx bx-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 portfolio-item filter-THM">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/ctfs/thm/THM - SimpleCTF.png" class="img-fluid" alt=""/>
+                                <div
+                                    class="portfolio-links">
+                                    <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                    <a href="./assets/reports/thm/SimpleCTF THM.pdf" target="_blank" title="Download PDF Report">
+                                        <i class="bx bx-link"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+            <!-- End Portfolio Section -->
+
+                        <!-- SPANISH VERSION -->
+
+            <!-- ======= Portfolio Section ======= -->
+            <section id="portfolio" class="portfolio section-bg">
+            <div class="container">
+                <div class="section-title">
+                    <h2>Portfolio</h2>
+                    <p>
+                        Una de las mejores formas de aprender a ser un pentester es
+                                        resolviendo CTFs de diferentes plataformas como HackTheBox,
+                                        TryHackMe, Portswigger, VulnHub, etc. Estos son algunos de los
+                                        informes que he estado haciendo sobre cómo explotar ciertas
+                                        vulnerabilidades y obtener escalada de privilegios en las máquinas
+                                        víctimas.
+                    </p>
+                </div>
+
+                <div class="row" data-aos="fade-up">
+                    <div class="col-lg-12 d-flex justify-content-center">
+                        <ul id="portfolio-flters">
+                            <li data-filter="*" class="filter-active">Todos</li>
+                            <li data-filter=".filter-HTB">HackTheBox</li>
+                            <li data-filter=".filter-THM">TryHackMe</li>
+                            <li data-filter=".filter-PTS">Portswigger</li>
+                            <li data-filter=".filter-VNH">Vulnhub</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/ctfs/htb/HTB - Return.png" class="img-fluid" alt=""/>
+                            <div
+                                class="portfolio-links">
+                                <!-- <a href="assets/img/ctfs/HTB - Return.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                <a href="./assets/reports/htb/Return HTB.pdf" target="_blank" title="Download PDF Report">
+                                    <i class="bx bx-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/ctfs/htb/HTB - Shocker.png" class="img-fluid" alt=""/>
+                            <div
+                                class="portfolio-links">
+                                <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                <a href="./assets/reports/htb/Shocker HTB.pdf" target="_blank" title="Download PDF Report">
+                                    <i class="bx bx-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/ctfs/htb/HTB - Delivery.png" class="img-fluid" alt=""/>
+                            <div
+                                class="portfolio-links">
+                                <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                <a href="./assets/reports/htb/Delivery HTB.pdf" target="_blank" title="Download PDF Report">
+                                    <i class="bx bx-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-HTB">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/ctfs/htb/HTB - GoodGames.png" class="img-fluid" alt=""/>
+                            <div
+                                class="portfolio-links">
+                                <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                <a href="./assets/reports/htb/GoodGames HTB.pdf" target="_blank" title="Download PDF Report">
+                                    <i class="bx bx-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-THM">
+                        <div class="portfolio-wrap">
+                            <img src="assets/img/ctfs/thm/THM - SimpleCTF.png" class="img-fluid" alt=""/>
+                            <div
+                                class="portfolio-links">
+                                <!-- <a href="assets/img/ctfs/HTB - Shocker.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a> -->
+                                <a href="./assets/reports/thm/SimpleCTF THM.pdf" target="_blank" title="Download PDF Report">
+                                    <i class="bx bx-link"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Portfolio Section -->
